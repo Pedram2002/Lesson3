@@ -1,0 +1,65 @@
+.links img {
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin: 5px;
+}
+
+.links {
+
+    width: 50%;
+}
+
+.links a {
+    text-decoration: none;
+}
+
+.block1 {
+    background: linear-gradient(0deg, rgba(3, 158, 218, 1) 0%, rgba(1, 135, 187, 1) 45%, rgba(4, 171, 235, 1) 100%);
+
+    padding: 20px;
+    margin: 0px 10px 30px 10px;
+}
+
+.block2 {
+    background: linear-gradient(0deg, #cb60b3 0%, #ad1283 50%, #de47ac 100%);
+    padding: 20px;
+    margin: 0px 10px 30px 10px;
+}
+
+.block3 {
+    background: linear-gradient(0deg, #299a0b 0%, #299a0b 100%);
+
+    padding: 20px;
+    margin: 0px 10px 30px 10px;
+}
+
+.header {
+    font-size: 30px;
+    font-stretch: extra-condensed;
+}
+
+.c2 {
+    font-size: 30px;
+    margin-left: 15px;
+}
+.c4 {
+    margin-left: 15px;
+}
+body {
+    font-family: inter;
+}
+
+.products {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 50%;
+    margin-left: 15px;
+}
+
+.products td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+
+}
